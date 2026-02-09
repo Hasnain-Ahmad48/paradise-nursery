@@ -66,7 +66,7 @@ button {
   align-items: center;
   justify-content: center;
   height: 100vh;
-  /* Add your own background image URL */
+  
   background: url('https://images.unsplash.com/photo-1512428813834-c702c7702b78')
     no-repeat center center/cover;
   position: relative;
@@ -79,7 +79,7 @@ button {
   left: 0;
   right: 0;
   bottom: 0;
-  background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+  /* background: rgba(0, 0, 0, 0.5);  */
 }
 
 .landing-content {
